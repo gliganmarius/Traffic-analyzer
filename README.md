@@ -35,7 +35,7 @@ The problem can have several ways to solve it, each with a certain precision:
 
 Although the first approach provides less accurate data, it will be presented as a mode of operation, because the application is independent and does not use databases of other organizations.
 Broadly speaking, the application detects vehicles and divides them into categories and subcategories, providing data such as the pollution norm, the age of the vehicles, the place where they were registered, as well as their daily inventory.
-Knowing the pollution norms and the number of vehicles, we can calculate the CO2 emissions produced by vehicles in a certain locality (if we have a small number of surveillance cameras).
+Knowing the pollution norms and the number of vehicles, we can calculate the CO2 emissions produced by vehicles in a certain locality (if we have a small number of surveillance cameras) or in a region (if we have a larger number of rooms (input data)).
 Using different regression algorithms, a prediction of CO2 emissions can be made.
 The higher the traffic congestion, the higher the carbon emissions. Therefore, the application aims to predict a trend of increasing or decreasing traffic in certain areas.
 If the region of origin of the cars is also known, traffic could be redirected to avoid possible traffic congestion, or it could help local authorities in making decisions to build new detours, or to increase the number of lanes.
