@@ -25,3 +25,6 @@ The data provided by the application could help to:
 
 ## Data and AI techniques:
 
+The problem can have several ways to solve it, each with a certain precision.
+The first way to solve the problem is a standalone application, in which data is collected using a surveillance camera. These data are images with machines, which must be recognized and classified based on training data. After classification, certain calculations can be performed in order to predict trends.
+The second way also uses a surveillance camera to collect data, but also involves querying a database. The data are images with vehicle registration numbers, which require recognition algorithms. After identifying the registration numbers in the database, detailed information about the vehicle is also obtained. With the latter data, regressions can be used to predict certain trends.
