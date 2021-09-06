@@ -20,4 +20,4 @@ The data provided by the application could help to:
   * traffic congestion
   * the area of origin of the vehicles
 
-
+![Traffic Analyzer](/Prezentare1.jpg)
