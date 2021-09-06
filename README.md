@@ -48,3 +48,9 @@ The basic idea is that it could support local authorities in implementing soluti
 If we work with the variant in which we have an independent application (it does not query a database), the accuracy with which the CO2 emission is calculated may contain some errors.
 These errors can come from the inaccurate calculation of the pollution norm (we have an image of a vehicle, after which only the time interval in which that vehicle was made can be determined, so we cannot determine exactly the pollution norm).
 The real challenge is in the most accurate classification of vehicles and in the use of techniques to reduce errors in determining pollution rules.
+
+
+## What next
+
+The accuracy of estimating the pollution norm can be greatly increased by reading the registration number and consulting a database that contains data about vehicles (car register).
+In such an approach, prediction errors tend to zero.
