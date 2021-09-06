@@ -41,3 +41,10 @@ The higher the traffic congestion, the higher the carbon emissions. Therefore, t
 If the region of origin of the cars is also known, traffic could be redirected to avoid possible traffic congestion, or it could help local authorities in making decisions to build new detours, or to increase the number of lanes.
 If it is known which types of vehicles pollute the most, decisions could be made to replace them with less polluting ones.
 The basic idea is that it could support local authorities in implementing solutions to reduce pollution.
+
+
+## Challenges
+
+If we work with the variant in which we have an independent application (it does not query a database), the accuracy with which the CO2 emission is calculated may contain some errors.
+These errors can come from the inaccurate calculation of the pollution norm (we have an image of a vehicle, after which only the time interval in which that vehicle was made can be determined, so we cannot determine exactly the pollution norm).
+The real challenge is in the most accurate classification of vehicles and in the use of techniques to reduce errors in determining pollution rules.
