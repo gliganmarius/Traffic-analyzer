@@ -10,8 +10,7 @@ Traffic Analyzer is an application that aims to predict the values of carbon emi
 ## Background
 
 This application aims to solve two major problems: pollution and traffic congestion.
-https://www.co2.earth/
-Pollution must have a downward trend in the coming years and to make the right decisions both locally and globally, but for this we need to have some concrete data.
+Pollution (https://www.co2.earth/) must have a downward trend in the coming years and to make the right decisions both locally and globally, but for this we need to have some concrete data.
 This data can be provided by an application that analyzes car traffic. Application that can predict with a certain accuracy the categories of vehicles that pollute the most, but also other information and trends about traffic.
 
 The data provided by the application could help to:
